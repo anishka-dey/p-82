@@ -1,0 +1,9 @@
+.bodyy{
+	background-image:url("https://img.freepik.com/free-photo/paint-smudge-textured-background-pink-aesthetic-style-creative-art_53876-133101.jpg")
+}
+#myCanvas{
+  border-width:5px;
+  background-color:white;
+  border-style:ridge;
+  border-color:lightpink;
+}
